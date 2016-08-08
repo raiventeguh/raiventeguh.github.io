@@ -1,0 +1,8 @@
+li.skills:hover { 
+    color: #696969;
+}
+li.skills{
+	font-size: 18px;
+	font-weight: bold;
+	color:#DCDCDC;
+}
